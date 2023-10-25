@@ -1,0 +1,8 @@
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\klasaStringVježba1\klasaStringVježba1\bin\Debug\klasaStringVježba1.exe.config
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\klasaStringVježba1\klasaStringVježba1\bin\Debug\klasaStringVježba1.exe
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\klasaStringVježba1\klasaStringVježba1\bin\Debug\klasaStringVježba1.pdb
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\klasaStringVježba1\klasaStringVježba1\obj\Debug\klasaStringVježba1.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\klasaStringVježba1\klasaStringVježba1\obj\Debug\klasaStringVježba1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\klasaStringVježba1\klasaStringVježba1\obj\Debug\klasaStringVježba1.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\klasaStringVježba1\klasaStringVježba1\obj\Debug\klasaStringVježba1.exe
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\klasaStringVježba1\klasaStringVježba1\obj\Debug\klasaStringVježba1.pdb
